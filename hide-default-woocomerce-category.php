@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 if ( ! class_exists( 'Hide_Default_WooCommerce_Category' ) ) :
 
 /**
- * WooCommerce Colors main class.
+ * Main class.
  */
 class Hide_Default_WooCommerce_Category {
 
